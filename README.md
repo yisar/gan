@@ -9,7 +9,7 @@
 
 ### Use
 ```go
-g := Gay.new()
+g := Gan.new()
 ```
 
 #### P.S.
