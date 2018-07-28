@@ -1,7 +1,7 @@
-<p align="center"><img src="http://wx4.sinaimg.cn/mw690/0060lm7Tly1ftpfg7b87ij30jn0jngnn.jpg" alt="smox logo"></p>
+<p align="center"><img src="http://wx1.sinaimg.cn/mw690/0060lm7Tly1ftpfy740m8j30jn0jnaat.jpg" alt="gay logo" width="180"></p>
+<h1 align="center">Gay</h1>
+<p align="center">The minimal & fast web framework packaged Go native.</p>
 
-# Gay
-A web framework packaged Go native which use fasthttp and httprouter
 
 ### Feature
 * :leaves: Package Go native，minimal and free
@@ -14,3 +14,4 @@ g := Gay.new()
 
 #### P.S.
 gay 就是基佬的意思(⊙o⊙)…，这个名字太厉害以至于 github 上竟然没人用√~
+logo 不是鸟，是鸡，是鸡鸡！
